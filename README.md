@@ -1,11 +1,11 @@
 ### Hi, I’m @Dev-Dyls
 
 - Hi, im Dyls or Dylan Im a developer from scotland, currently learning HTML, CSS and Python. 
-
-- I used 
-- Visual Studio Code to code my products
-- Adobe XD to design my webpages and apps
-- Adobe After Effects for my Logos 
+ 
+- Softwares i use
+<ul>Visual Studio Code to code my products</ul>
+<ul>Adobe XD to design my webpages and apps</ul>
+<ul>Adobe After Effects for my Logos</ul> 
 
 
 - I was the Founder & Devloper of the Evolved Network Music bot and the Evolved Network Utility Bot
