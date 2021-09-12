@@ -1,5 +1,5 @@
 
-<h1 align="center">Welcome, I am IceyyM8</h1>
+<h1 align="center">Welcome, My name is Dyls</h1>
 <p align="center"><i>I specialize in Javascript.</i></p>
 
 - Softwares i use
