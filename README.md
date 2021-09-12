@@ -12,7 +12,7 @@
 
 - I am Dyslexic and also have ADHD, bot Nurodivergents witch makes it difficult for me to concentrate and spell meaning coding is super hard!
 
-- To contact me use my [![Dyls](https://discord.com/widget?id=867806168897945630&theme=dark)](https://discordapp.com/users/417831013465587712/)
+- To contact me use my [Discord](https://discord.com/widget?id=867806168897945630&theme=dark)
 
 <!---
 Dev-Dyls/Dev-Dyls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
