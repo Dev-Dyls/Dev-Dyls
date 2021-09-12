@@ -2,10 +2,10 @@
 <h1 align="center">Welcome, My name is Dyls</h1>
 <p align="center"><i>I specialize in Javascript.</i></p>
 
-- Softwares i use
+>- Softwares i use
 <ul>Visual Studio Code to code my products</ul>
 <ul>Adobe XD to design my webpages and apps</ul>
-<ul>Adobe After Effects for my Logos</ul> 
+<ul>Adobe After Effects for my Logos</ul>
 
 
 - I was the Founder & Devloper of the Evolved Network Music bot and the Evolved Network Utility Bot
