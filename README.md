@@ -4,7 +4,7 @@
 <p align="center"><i>I am currently learning HTML5, CSS and Bootleg.</i>
 
 <h3 align="center">About Me</h3>
-<p align="center"> Hello my name is Dylan. Im a graphics Designer and Web Developer from Scotland! I have been doing this for about 2 years now Feel free to look at any of my socials listed below. </p>
+<p align="center"> Hello my name is Dylan. Im a graphics Designer and Web Developer from Scotland! I have been doing this for about 2 years it used to be somthing i did in my free time, now its more of a part time job i do for people. Feel free to look at any of my socials listed below. </p>
 
 <h3 align="center">My Socials!</h3>
 
