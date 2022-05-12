@@ -24,5 +24,6 @@
 
 <h3> My Languages! </h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dyls&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dyls&theme=tokyonight)
+
 
