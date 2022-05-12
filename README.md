@@ -24,7 +24,6 @@
 
 <h3> My Languages! </h3>
 
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dyls&theme=tokyonight)
 
 
